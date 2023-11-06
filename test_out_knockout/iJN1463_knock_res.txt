@@ -1,0 +1,6 @@
+ids	growth	status	name
+PP_0520	0.0	optimal	pgpA
+PP_0438	0.0	optimal	coaX
+PP_4036	0.5861072553197961	optimal	pydB
+PP_1017	0.5861175448479806	optimal	gtsC
+PP_2848	0.58611724924683	optimal	ureF
